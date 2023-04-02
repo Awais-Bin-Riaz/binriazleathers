@@ -5,7 +5,6 @@ import img4 from "../../images/6.jpg";
 import img5 from "../../images/7.jpg";
 import img6 from "../../images/9.jpg";
 import img7 from "../../images/10.jpg";
-import img8 from "../../images/16.jpg";
 export const photos = [
   {
     src: img1,
